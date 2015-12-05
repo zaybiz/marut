@@ -33,7 +33,7 @@ const CircleBreathPacer = React.createClass({
     };
   },
 
-  componentWillRecieveProps(){
+  componentWillReceiveProps(){
     this.setState({circleSize:this.props.startDiameter})
   },
 
