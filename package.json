@@ -16,8 +16,8 @@
   "author": "",
   "license": "ISC",
   "peerDependencies": {
-    "react": "^0.13.3",
-    "react-tween-state": "0.0.5"
+    "react": "^0.14.3",
+    "react-tween-state": "0.1.4"
   },
   "devDependencies": {
     "babel": "^5.5.8",
